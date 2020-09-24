@@ -22,6 +22,7 @@
     'data': [
         'views/stock_view.xml',
         'views/account_invoice_view.xml',
+        'security/security.xml',
     ],
     'installable': True,
 }
